@@ -1,7 +1,7 @@
-class Que21{
+class Que17{
     public static void main(String args[]){
-    int key = 13;
-    Int c1 = new Int(key);
+    
+    Integer c1 = new Integer(123);
 
     short num1 = c1.shortValue();
     System.out.println("num 1:"+num1);
